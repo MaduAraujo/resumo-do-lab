@@ -12,3 +12,34 @@ A computação em nuvem, também conhecida como "cloud computing", revolucionou 
 - Escalabilidade
 - Acessibilidade
 - Segurança
+
+## Tipos de Serviço de Nuvem
+
+1. Infraestrutura como Serviço (IaaS)
+
+O IaaS oferece acesso a recursos de computação, como servidores virtuais, armazenamento e redes, sob demanda. Você controla a infraestrutura, mas não precisa se preocupar com a manutenção física dos equipamentos.
+
+**Vantagens**: Flexibilidade, escalabilidade e controle. Ideal para empresas que precisam de infraestrutura personalizada e escalável. <br>
+**Exemplos**: Amazon Web Services (AWS) EC2, Microsoft Azure Virtual Machines, Google Compute Engine.
+
+2. Plataforma como Serviço (PaaS)
+
+O PaaS fornece um ambiente de desenvolvimento completo, incluindo ferramentas, linguagens de programação e frameworks, para criar e implantar aplicativos. Você não precisa gerenciar a infraestrutura subjacente.
+
+**Vantagens**: Agilidade no desenvolvimento, facilidade de implantação e escalabilidade. Ideal para desenvolvedores que querem focar na criação de aplicativos.<br>
+**Exemplos**: AWS Elastic Beanstalk, Microsoft Azure App Service, Google App Engine.
+
+3. Software como Serviço (SaaS)
+
+O SaaS oferece acesso a aplicativos de software prontos para uso, hospedados na nuvem. Você paga uma assinatura para usar o software, sem se preocupar com instalação ou manutenção.
+
+**Vantagens**: Facilidade de uso, acessibilidade e custo geralmente mais baixo. Ideal para usuários que precisam de aplicativos específicos sem se preocupar com a infraestrutura.<br>
+**Exemplos**: Salesforce, Microsoft 365, Google Workspace.
+
+# Modelos de implantação
+
+A nuvem também pode ser classificada de acordo com o modelo de implantação:
+
+*   **Nuvem pública**: Os recursos são compartilhados entre vários clientes e gerenciados por um provedor.
+*   **Nuvem privada**: Os recursos são dedicados a um único cliente e podem ser gerenciados internamente ou por um provedor.
+*   **Nuvem híbrida**: Combinação de nuvem pública e privada, permitindo a integração de diferentes ambientes.
