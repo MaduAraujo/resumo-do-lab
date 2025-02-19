@@ -43,3 +43,13 @@ A nuvem também pode ser classificada de acordo com o modelo de implantação:
 *   **Nuvem pública**: Os recursos são compartilhados entre vários clientes e gerenciados por um provedor.
 *   **Nuvem privada**: Os recursos são dedicados a um único cliente e podem ser gerenciados internamente ou por um provedor.
 *   **Nuvem híbrida**: Combinação de nuvem pública e privada, permitindo a integração de diferentes ambientes.
+
+# Redes
+
+Redes de computadores são sistemas que interligam dois ou mais dispositivos para trocar informações e recursos. Permitem a comunicação e o compartilhamento de dados, softwares e hardwares, como impressoras e unidades de armazenamento.
+
+Tipos de redes
+
+- Redes locais (LANs): Conectam dispositivos em espaços limitados, como residências, escritórios ou escolas.
+- Redes de longa distância (WANs): Abrangem áreas geográficas extensas, como cidades, países ou continentes, interligando LANs. A Internet é a WAN global que conecta bilhões de dispositivos.
+- Redes sem fio (Wi-Fi): Utilizam ondas de rádio para conectar dispositivos sem a necessidade de fios.
